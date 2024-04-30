@@ -125,7 +125,7 @@
 [![](https://raw.githubusercontent.com/mlalayev/myProgress/master/profile-summary-card-output/prussian/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mlalayev/myProgress/master/profile-summary-card-output/prussian/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mlalayev" alt="Wakatime Stats">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@0e3f2860-e5b1-4213-9dd9-44d26db0bd08" alt="Wakatime Stats">
 
 
 </div>
