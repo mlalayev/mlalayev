@@ -85,7 +85,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,css,discord,express,figma,firebase,redis,github,html,java,js,mysql,nextjs&perline=14" />
-    <img src="https://skillicons.dev/icons?i=nodejs,py,react,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,react,tailwind,vscode&perline=5" />
   </a>
 </p>
 
