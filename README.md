@@ -22,7 +22,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">"The confusion" is part of Programming</h2></summary>
   </ul>
 </div>
 
@@ -32,7 +32,7 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs**
+- 💬 Ask me about **React, react-native, nodejs, TypeScript**
 
 - 📫 Feel free to reach me out **lalayevmurad@gmail.com**
 
