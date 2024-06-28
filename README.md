@@ -22,13 +22,13 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">"The confusion" is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">The confusion is part of Programming</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS ,React, React Native, Nodejs**
+- 🔭 I’m currently working on **React, React Native, Nodejs, TypeScript**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
