@@ -32,7 +32,7 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- 💬 Ask me about **React, react-native, NodeJS, TypeScript**
+- 💬 Ask me about **React, react-native, NodeJS, TypeScript, JavaScript**
 
 - 📫 Feel free to reach me out **lalayevmurad@gmail.com**
 
