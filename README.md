@@ -29,7 +29,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, React Native, NodeJS, TypeScript, JavaScript**
+- 🔭 I’m currently working on **React, React Native, NodeJS, TypeScript**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
